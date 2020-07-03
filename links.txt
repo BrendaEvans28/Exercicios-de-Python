@@ -1,0 +1,16 @@
+links das aulas de python:
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula01.html
+https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula02.html
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula03.html
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula04.html
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula05.html
+
+
+importante:
+// divisão para numero inteiro 
+/Divisão
+
+import math
+   math.sqrt: cálculo de raiz quadrada.
+   math.pow: outra forma de calcular raiz quadrada.
